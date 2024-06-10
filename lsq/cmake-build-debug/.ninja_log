@@ -1,0 +1,6 @@
+# ninja log v5
+1	856	1701988442397123725	CMakeFiles/lsq.dir/LinkedList.cpp.o	b5dd97ecf6cf8ea4
+2	694	1701988442237123921	CMakeFiles/lsq.dir/Queue.cpp.o	6da3879c0a34c995
+1	479	1701988503900391700	CMakeFiles/lsq.dir/main.cpp.o	92cceead512533da
+1	703	1701988442247123909	CMakeFiles/lsq.dir/Stack.cpp.o	eab5146dfb2180d3
+479	569	1701988503990391299	lsq	d9fffc9f4a8bc43d

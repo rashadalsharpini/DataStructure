@@ -1,0 +1,3 @@
+/home/rashadalsharpini/Desktop/Clion/lsq/cmake-build-debug/CMakeFiles/lsq.dir
+/home/rashadalsharpini/Desktop/Clion/lsq/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rashadalsharpini/Desktop/Clion/lsq/cmake-build-debug/CMakeFiles/rebuild_cache.dir

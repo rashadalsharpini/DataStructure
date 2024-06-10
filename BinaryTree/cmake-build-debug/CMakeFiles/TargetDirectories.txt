@@ -1,0 +1,3 @@
+/home/rashadalsharpini/Desktop/Clion/BinaryTree/cmake-build-debug/CMakeFiles/BinaryTree.dir
+/home/rashadalsharpini/Desktop/Clion/BinaryTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rashadalsharpini/Desktop/Clion/BinaryTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
